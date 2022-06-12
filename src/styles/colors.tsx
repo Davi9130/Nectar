@@ -1,0 +1,16 @@
+export default {
+  white: '#fff',
+  whiteTransparent: 'rgba(255, 255, 255, 0.7)',
+  borderColor: 'rgba(226, 226, 226, 1)',
+  grayLight: '#f5f5f5',
+  gray: '#e5e5e5',
+  grayDark: '#b5b5b5',
+  grayText: 'rgba(130, 130, 130, 1)',
+  whileLight: '#FCFCFC',
+  primary: '#53B175',
+  warning: '#f3bA2f',
+  danger: '#ff6378',
+  success: '#00e699',
+  facebook: '#4A66AC',
+  gmail: '#5383EC',
+};
